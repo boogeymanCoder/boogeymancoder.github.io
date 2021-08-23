@@ -1,0 +1,17 @@
+.own-primary-color {
+    color: #d89279;
+}
+
+.own-bg-primary-color {
+    background-color: #d89279;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler:focus {
+    outline: #d89279;
+}
+
+p {
+    text-indent: 50px;
+}
